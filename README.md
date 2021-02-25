@@ -6,7 +6,7 @@
 
 
 ## :scroll: Description
-一个可以查看狗狗简介的应用，点击后可以看到详情
+#AndroidDevChallenge 一个可以查看狗狗简介的应用，点击后可以看到详情
 
 
 ## :bulb: Motivation and Context
