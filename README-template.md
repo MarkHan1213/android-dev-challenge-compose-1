@@ -1,4 +1,4 @@
-# Put title of your app here
+# 爱狗人士
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
@@ -6,12 +6,11 @@
 
 
 ## :scroll: Description
-<!--- Describe your app in one or two sentences -->
+一个可以查看狗狗简介的应用，点击后可以看到详情
 
 
 ## :bulb: Motivation and Context
-<!--- Optionally point readers to interesting parts of your submission. -->
-<!--- What are you especially proud of? -->
+完全采用Compose使用，操作简单。
 
 
 ## :camera_flash: Screenshots
